@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "video": "/content/Video-LLaVA/data/video/v_-_gDSRlC1kg.mp4",
+        "conversations": [
+          {
+            "from": "human",
+            "value": "<video>\nWhat other activities are shown in the video besides curling?"
+          },
+          {
+            "from": "gpt",
+            "value": "Yes, at one point in the video, two men wearing red and white jackets are seen playing tennis. However, the main focus of the video is on the hockey player practicing curling for a team."
+          }
+        ]
+      }
+]
